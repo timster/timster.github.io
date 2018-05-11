@@ -27,7 +27,18 @@
       <pubDate>Fri, 11 May 2018 13:55:44 -0400</pubDate>
       
       <guid>https://timster.github.io/page/another/</guid>
-      <description>This is also about me.</description>
+      <description>This is also about me.
+Here is some more stuff.</description>
+    </item>
+    
+    <item>
+      <title>Another</title>
+      <link>https://timster.github.io/page/another2/</link>
+      <pubDate>Fri, 11 May 2018 13:55:44 -0400</pubDate>
+      
+      <guid>https://timster.github.io/page/another2/</guid>
+      <description>This is also about me.
+Here is some more stuff.</description>
     </item>
     
   </channel>
