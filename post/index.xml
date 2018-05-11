@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on timster.github.io</title>
+    <link>https://timster.github.io/post/</link>
+    <description>Recent content in Posts on timster.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Tim Shaffer</copyright>
+    <lastBuildDate>Fri, 11 May 2018 13:13:44 -0400</lastBuildDate>
+    
+	<atom:link href="https://timster.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://timster.github.io/post/hello/</link>
+      <pubDate>Fri, 11 May 2018 13:13:44 -0400</pubDate>
+      
+      <guid>https://timster.github.io/post/hello/</guid>
+      <description>This is the first post in my blog.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor dui a est commodo, quis consectetur quam dignissim. Aenean ut quam libero. Aliquam erat volutpat. Maecenas et ipsum tincidunt, placerat tortor ut, vestibulum velit. Nullam in bibendum nulla. Nulla eros lacus, feugiat eget placerat nec, tincidunt eu turpis. Nulla dignissim felis dui, vel fermentum quam vulputate semper. Proin a ligula turpis. Nunc facilisis felis nec lacinia pellentesque.</description>
+    </item>
+    
+  </channel>
+</rss>
